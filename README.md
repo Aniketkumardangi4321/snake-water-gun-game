@@ -1,7 +1,6 @@
 # snake-water-gun-game
 import random
 
-# Snake Water Gun or Rock Paper Scissors
 def gameWin(comp, you):
     # If two values are equal, declare a tie!
     if comp == you:
